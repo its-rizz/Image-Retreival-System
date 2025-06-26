@@ -43,7 +43,7 @@ for robust and efficient retrieval.
 
 ---
 
-📌 Applications
+**📌 Applications**
 Facial Recognition
 
 Texture Classification
